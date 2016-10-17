@@ -1,4 +1,4 @@
-# graphic-features-page
+# visual-features-page
 A very effective way to display your product features is a well crafted interactive features page displaying your features through images and text rather than simple lists of benefits. By combining the quality of design, visuals, and copy, you improve your ability to showcase the features of your product and/or services across. In this article, [Solodev](https://www.solodev.com/) will show you how to create a visual features page.
 
 ## Tutorial
